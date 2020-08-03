@@ -12,10 +12,10 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 ```
 // Using https
-git clone https://github.com/birobirobiro/google-chrome-omni.git
+git clone https://github.com/getomni/google-chrome-omni.git
 
 // Using ssh
-git clone git@github.com:birobirobiro/google-chrome-omni.git
+git clone git@github.com:getomni/google-chrome-omni.git
 ```
 
 #### Download manually
