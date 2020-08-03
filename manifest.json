@@ -1,0 +1,72 @@
+{
+  "name": "Omni",
+  "version": "1.0",
+  "description": "",
+  "manifest_version": 2,
+  "theme": {
+    "images": {
+      "theme_frame": "images\/theme_frame.png",
+      "theme_toolbar": "images\/theme_toolbar.png",
+      "theme_tab_background": "images\/theme_tab_background.png"
+    },
+    "colors": {
+      "frame": [
+        25,
+        22,
+        34
+      ],
+      "toolbar": [
+        25,
+        22,
+        34
+      ],
+      "tab_text": [
+        152,
+        139,
+        199
+      ],
+      "tab_background_text": [
+        152,
+        139,
+        199
+      ],
+      "bookmark_text": [
+        152,
+        139,
+        199
+      ],
+      "ntp_background": [
+        25,
+        22,
+        34
+      ],
+      "ntp_text": [
+        90,
+        75,
+        129
+      ],
+      "ntp_link": [
+        225,
+        225,
+        230
+      ],
+      "button_background": [
+        25,
+        22,
+        34,
+        1
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.71,
+        0.26,
+        0.4
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
