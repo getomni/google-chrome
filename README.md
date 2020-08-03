@@ -15,7 +15,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 git clone https://github.com/birobirobiro/google-chrome-omni.git
 
 // Using ssh
-git clone git@github.com:Rocketseat/google-chrome-omni.git
+git clone git@github.com:birobirobiro/google-chrome-omni.git
 ```
 
 #### Download manually
