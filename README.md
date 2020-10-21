@@ -1,42 +1,43 @@
-# Omni for [Google Chrome](https://www.google.com/intl/pt-BR/chrome/)
+<h1 align="center">
+  <br>
+  <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
+  <br>
+  Omni for <a href="https://www.google.com/chrome">Google Chrome</a>
+  <br>
+</h1>
 
-> A dark theme for [Google Chrome](https://www.google.com/intl/pt-BR/chrome/).
+<p align="center">
+  <strong>Dark theme for <a href="https://www.google.com/chrome">Google Chrome</a></strong>
+</p>
 
-![Screenshot](./screenshot.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs-welcome-%235FCC6F.svg" alt="PRs welcome!" />
 
-## [Install](./INSTALL.md)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%235FCC6F">
+</p>
 
-#### Download using Git
+<p align="center">
+  <a href="#install">Install</a> •
+  <a href="#team">Team</a> •
+  <a href="#license">License</a>
+</p>
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:<br>
+<p align="center">
+  <img alt="Omni screnshoot for Google Chrome" src="./screenshot.png">
+</p>
 
-```
-// Using https
-git clone https://github.com/getomni/google-chrome-omni.git
+## Install
 
-// Using ssh
-git clone git@github.com:getomni/google-chrome-omni.git
-```
-
-#### Download manually
-
-Download the theme by using the [GitHub .zip download](https://github.com/birobirobiro/google-chrome-omni/archive/master.zip) option. After downloading it you must unzip the file and you'll have the theme folder.
-
-### Activating theme
-
-- Type `chrome://extensions/` in the adress bar.
-- Select the `Developer Mode` checkbox.
-- Click the `Load unpacked` button.
-- Choose `google-chrome-omni`
+All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by Rocketseat
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/google-chrome/graphs/contributors).
 
-[![João Inácio](https://avatars0.githubusercontent.com/u/22185823?v=3&s=70)](https://github.com/birobirobiro) |
---- |
-[João Inácio](https://github.com/birobirobiro) |
+| [![João Inácio](https://github.com/birobirobiro.png?size=100)](https://github.com/birobirobiro) |
+| ----------------------------------------------------------------------------------------------- |
+| [João Inácio](https://github.com/birobirobiro)                                                  |
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](./LICENSE.md)
