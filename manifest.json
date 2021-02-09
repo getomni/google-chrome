@@ -1,7 +1,7 @@
 {
   "name": "Omni: Dark Theme for Chrome",
-  "version": "1.0",
-  "description": "The offical Omni Theme for Google Chrome. Dark, clean and minimal.",
+  "version": "1.0.1",
+  "description": "The official Omni Theme for Google Chrome. Dark, clean, and minimal.",
   "manifest_version": 2,
   "icons": {
     "16": "images/icon16.png",
