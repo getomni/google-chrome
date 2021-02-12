@@ -34,9 +34,9 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/google-chrome/graphs/contributors).
 
-| [![João Inácio](https://github.com/birobirobiro.png?size=100)](https://github.com/birobirobiro) |
-| ----------------------------------------------------------------------------------------------- |
-| [João Inácio](https://github.com/birobirobiro)                                                  |
+| [![João Inácio](https://github.com/birobirobiro.png?size=100)](https://github.com/birobirobiro) | [![Luke Morales](https://github.com/lukemorales.png?size=100)](https://github.com/lukemorales) | [![João Pedro Schmitz](https://github.com/jpedroschmitz.png?size=100)](https://github.com/lukemorales) |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [João Inácio](https://github.com/birobirobiro)                                                  | [Luke Morales](https://github.com/lukemorales)                                                 | [João Pedro](https://github.com/jpedroschmitz)                                                         |
 
 ## License
 
