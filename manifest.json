@@ -1,8 +1,8 @@
 {
   "name": "Omni: Dark Theme for Chrome",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The official Omni Theme for Google Chrome. Dark, clean and minimal.",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
@@ -10,30 +10,27 @@
   },
   "theme": {
     "images": {
-      "theme_frame": "images/theme_frame.png",
       "theme_toolbar": "images/theme_toolbar.png",
       "theme_tab_background": "images/theme_tab_background.png"
     },
     "colors": {
-      "frame": [19, 17, 27],
-      "frame_inactive": [40, 38, 47],
-      "frame_incognito": [19, 17, 27],
-      "frame_incognito_inactive": [40, 38, 47],
-      "toolbar": [42, 35, 62],
-      "toolbar_button_icon": [225, 225, 230],
-      "tab_text": [255, 255, 255],
-      "tab_background_text": [65, 65, 77],
-      "tab_background_text_inactive": [65, 65, 77],
-      "tab_background_text_incognito": [65, 65, 77],
-      "tab_background_text_incognito_inactive": [65, 65, 77],
-      "bookmark_text": [225, 225, 230],
-      "ntp_background": [32, 27, 45],
-      "ntp_text": [225, 225, 230],
-      "ntp_link": [103, 228, 128],
-      "button_background": [152, 139, 199, 1]
+      "frame": [ 15, 13, 21 ],
+      "frame_inactive": [ 29, 24, 42 ],
+      "tab_background_text": [ 210, 210, 200 ],
+      "toolbar": [ 41, 36, 62 ],
+      "button_background": [ 18, 17, 27, 1 ],
+      "bookmark_text": [ 240, 240, 230 ],
+      "ntp_background": [ 31, 28, 45 ],
+      "tab_text": [ 240, 240, 230 ],
+      "ntp_text": [ 240, 240, 230 ],
+      "ntp_link": [ 240, 240, 230 ]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
     },
     "tints": {
-      "buttons": [0.67, 0.09, 0.89]
+      "buttons": [ 0.67, 0.09, 0.89 ]
     }
   }
 }
